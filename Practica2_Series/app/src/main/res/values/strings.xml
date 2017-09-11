@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Serie de Fibonacci</string>
+    <string name="app_2">BubbleSort</string>
+    <string name="app_3">Serie Numerica</string>
+</resources>
