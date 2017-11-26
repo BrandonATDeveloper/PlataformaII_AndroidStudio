@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_5_Notifications</string>
+
+    <string-array name="lista">
+        <item>Opcion Uno</item>
+        <item>Opcion Dos</item>
+        <item>Opcion Tres</item>
+        <item>Opcion Cuatro</item>
+    </string-array>
+
+</resources>

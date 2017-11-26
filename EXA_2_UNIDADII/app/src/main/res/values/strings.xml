@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EXA_2_UNIDADII</string>
+
+    <string-array name="list">
+        <item>Seleccion Uno</item>
+        <item>Seleccion Dos</item>
+        <item>Seleccion Tres</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <string name="rojo">Rojo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+    <string name="paginaWeb">https://www.google.com</string>
+
+    <string-array name="lista">
+        <item>Elemento Uno</item>
+        <item>Elemento Dos</item>
+        <item>Elemento Tres</item>
+    </string-array>
+
+</resources>

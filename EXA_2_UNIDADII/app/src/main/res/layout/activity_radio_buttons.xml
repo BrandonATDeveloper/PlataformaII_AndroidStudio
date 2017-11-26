@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.brand.exa_2_unidadii.RadioButtons">
+
+    <RadioGroup
+        android:id="@+id/opcion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/unoR"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Uno" />
+
+        <RadioButton
+            android:id="@+id/dosR"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Dos" />
+
+        <RadioButton
+            android:id="@+id/tresR"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Tres" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/volverRadio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="volverRadio"
+        android:text="volver" />
+</LinearLayout>
